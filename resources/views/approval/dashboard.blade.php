@@ -1,4 +1,4 @@
-@extends('layout')
+@extends('approval.layout')
 
 @section('content')
 @endsection
